@@ -1,4 +1,5 @@
-##Leitor de Promoções via QR Code
+# Leitor de Promoções via QR Code
+
 O Leitor de Promoções via QR Code é um aplicativo desenvolvido em Python que permite escanear códigos QR em produtos ou materiais promocionais para acessar ofertas especiais e informações adicionais sobre os produtos.
 
 ##Funcionalidades
